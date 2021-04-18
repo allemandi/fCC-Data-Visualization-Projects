@@ -1,0 +1,52 @@
+body {
+  text-align: center;
+  background: linear-gradient(315deg, #ffcfdf 0%, #b0f3f1 74%);
+  font-family: Verdana, sans-serif;
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+.container {
+  margin: 3rem 5rem auto;
+  border: 0.3rem solid #f1dfd1;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background: linear-gradient(315deg, #f1dfd1 0%, #f6f0ea 74%);
+
+
+}
+
+#tooltip {
+  display: flex;
+  position: absolute;
+  text-align: left;
+  word-wrap: break-word;
+  font-size: 0.75rem;
+  padding: 1rem;
+  background: linear-gradient(315deg, #bbf0f3 0%, #f6d285 74%);
+  border-radius: 1rem;
+  pointer-events: none;
+}
+
+.label {
+    font-size: 1.5rem;
+}
+
+#title {
+  font-size: 2rem;
+}
+
+
+footer {
+
+  text-align: center;
+  background: #000;
+  margin-top: 3rem;
+  position: absolute;
+  padding: 1rem 0 1rem;
+  color: #C0C0C0;
+  width: 100%;
+}
