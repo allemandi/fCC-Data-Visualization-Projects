@@ -10,3 +10,8 @@ The [bar chart can be found here.](https://codepen.io/allemandi/full/oNBwrjX "fC
 A scatterplot graph depicting cyclist doping statistics (1994 - 2016). This is built as a CodePen.io app, testing the D3 svg-based visualization library with a focus on parsed date formatting and cleaner axis ticks. HTML, JS, and CSS included, along with a graph legend and mouseover tooltip.
 
 The [scatterplot graph can be found here.](https://codepen.io/allemandi/full/eYgVmEb "fCC: Visualize Data with a Scatterplot Graph - Cyclist Doping Statistics")
+
+## Visualize Data with a Heat Map - Land Surface Temperature
+A heat map of monthly global land-surface temperatures (1951 - 1980 dataset). This is built as a CodePen.io app, depicting different fill colors split across the dataset's available temperature variances. Using the D3 svg-based library, the heat map contains cells, tooltips, and a legend with corresponding colors based on temperature values.
+
+The [heat map can be found here.](https://codepen.io/allemandi/full/yLgxYVQ "fCC: Visualize Data with a Heat Map - Land Surface Temperature")
