@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+  background: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
+  font-family: Verdana, sans-serif;
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+.container {
+  margin: 3rem 5rem auto;
+  border: 0.3rem solid #deebdd;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background: linear-gradient(315deg, #deebdd 0%, #bbdbbe 74%);
+
+}
+
+#tooltip {
+  display: flex;
+  position: absolute;
+  text-align: left;
+  word-wrap: break-word;
+  font-size: 0.75rem;
+  padding: 1rem;
+  background: linear-gradient(315deg, #f8f9d2 0%, #e8dbfc 74%);;
+  border-radius: 1rem;
+  pointer-events: none;
+}
+
+
+#title {
+  font-size: 2rem;
+}
+
+
+footer {
+
+  text-align: center;
+  background: #000;
+  margin-top: 3rem;
+  position: absolute;
+  padding: 1rem 0 1rem;
+  color: #C0C0C0;
+  width: 100%;
+}

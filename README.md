@@ -15,3 +15,8 @@ The [scatterplot graph can be found here.](https://codepen.io/allemandi/full/eYg
 A heat map of monthly global land-surface temperatures (1951 - 1980 dataset). This is built as a CodePen.io app, depicting different fill colors split across the dataset's available temperature variances. Using the D3 svg-based library, the heat map contains cells, tooltips, and a legend with corresponding colors based on temperature values.
 
 The [heat map can be found here.](https://codepen.io/allemandi/full/yLgxYVQ "fCC: Visualize Data with a Heat Map - Land Surface Temperature")
+
+## Visualize Data with a Choropleth Map - United States Educational Attainment
+A choropleth map representing the percentage of adults ages 25 and above with bachelor's degrees or higher (2010 - 2014 dataset). This is built as a CodePen.io app, sketching out a map of the United States into districts predefined by different shades of color in proportion to the percentage of educational attainment. Using the D3 library's geographic path generator, this choropleth map also contains a legend, tooltip, and color hues according to the dataset.
+
+The [choropleth map can be found here.](https://codepen.io/allemandi/full/BapgbEq "fCC: Visualize Data with a Choropleth Map - United States Educational Attainment") 
